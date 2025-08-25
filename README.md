@@ -20,6 +20,13 @@ A collection of beginner-to-intermediate web scraping projects using Python, Bea
 - **Tech:** Python, Requests, BeautifulSoup, Pandas  
 - **Concepts Learned:** HTML parsing, extracting structured data, working with lists, storing results in CSV.
 
+### 3. Books Scraper
+- **Website:** [books.toscrape.com](https://books.toscrape.com/)
+- **Description:** Scrapes book titles, prices, and availability from all pages of the site.  
+- **Output:** `books.csv`  
+- **Tech:** Python, Requests, BeautifulSoup, Pandas  
+- **Concepts Learned:** Pagination handling, HTML parsing, extracting structured data, saving results to CSV.
+
 ---
 
 ## How to Run
