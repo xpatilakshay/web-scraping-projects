@@ -37,17 +37,19 @@ pip install requests beautifulsoup4 pandas
 ```
 
 ### Quotes Scraper
-1. Navigate to the project folder:
+- Navigate to the project folder:
 ```bash
 cd web-scraping-projects/quotes_scraper
 ```
 
 ### imdb Movie Scraper
+- Navigate to the project folder:
 ```bash
 cd web-scraping-projects/imdb-movie-scraper
 ```
 
 ### Books Scraper
+- Navigate to the project folder:
 ```bash
 cd web-scraping-projects/books_scraper
 ```
