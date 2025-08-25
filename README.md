@@ -36,19 +36,19 @@ A collection of beginner-to-intermediate web scraping projects using Python, Bea
 pip install requests beautifulsoup4 pandas
 ```
 
-### Quotes Scraper
+### 1.Quotes Scraper
 - Navigate to the project folder:
 ```bash
 cd web-scraping-projects/quotes_scraper
 ```
 
-### IMDB Movie Scraper
+### 2.IMDB Movie Scraper
 - Navigate to the project folder:
 ```bash
 cd web-scraping-projects/imdb-movie-scraper
 ```
 
-### Books Scraper
+### 3.Books Scraper
 - Navigate to the project folder:
 ```bash
 cd web-scraping-projects/books_scraper
