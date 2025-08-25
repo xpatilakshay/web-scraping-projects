@@ -42,7 +42,7 @@ pip install requests beautifulsoup4 pandas
 cd web-scraping-projects/quotes_scraper
 ```
 
-### imdb Movie Scraper
+### IMDB Movie Scraper
 - Navigate to the project folder:
 ```bash
 cd web-scraping-projects/imdb-movie-scraper
