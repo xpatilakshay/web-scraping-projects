@@ -42,8 +42,8 @@ pip install requests beautifulsoup4 pandas
 cd web-scraping-projects/quotes_scraper
 ```
 ```bash
-cd web-scraping-projects/quotes_scraper
+cd web-scraping-projects/imdb-movie-scraper
 ```
 ```bash
-cd web-scraping-projects/quotes_scraper
+cd web-scraping-projects/books_scraper
 ```
