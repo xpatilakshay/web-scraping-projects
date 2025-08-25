@@ -13,7 +13,7 @@ A collection of beginner-to-intermediate web scraping projects using Python, Bea
 - **Tech:** Python, Requests, BeautifulSoup, Pandas  
 - **Concepts Learned:** HTML parsing, CSS selectors, extracting text/attributes, storing in CSV.
 
-### 2. IMDb Movie Scraper
+### 2. IMDB Movie Scraper
 - **Website:** [IMDb Top 250](https://www.imdb.com/chart/top/)
 - **Description:** Scrapes top 250 movies along with their rank, title, year, and rating.  
 - **Output:** `imdb_movies.csv`  
