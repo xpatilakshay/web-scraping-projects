@@ -24,13 +24,13 @@ A collection of beginner-to-intermediate web scraping projects using Python, Bea
 
 ## How to Run
 
+### Install required packages:
+```bash
+pip install requests beautifulsoup4 pandas
+```
+
 ### Quotes Scraper
 1. Navigate to the project folder:
 ```bash
 cd web-scraping-projects/quotes_scraper
-```
-
-### Install required packages:
-```bash
-pip install requests beautifulsoup4 pandas
 ```
